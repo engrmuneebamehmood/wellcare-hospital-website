@@ -62,8 +62,4 @@ This project is 100% static-build compatible and requires **no paid database, no
 
 ---
 
-## Medical & Privacy Notice
 
-- Appointment and contact forms prepare messages for **WhatsApp** (`+923185588178`) and do not store patient records in browser storage or external servers.
-- Appointment submissions are requests and must be confirmed by hospital reception.
-- Website content is for general hospital information and does not replace professional medical consultation.
